@@ -1,3 +1,8 @@
 node_modules/
 .env
 *.txt
+*.sh
+*.zip
+.vscode/
+.DS_Store
+dist/
